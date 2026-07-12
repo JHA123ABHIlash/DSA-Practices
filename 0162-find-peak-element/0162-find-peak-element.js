@@ -3,15 +3,18 @@
  * @return {number}
  */
 var findPeakElement = function(nums) {
-    let ans=nums[0];
-    let index=0;
+    let start=0;
+    let end=nums.length-1;
 
-    for(let i=1;i<nums.length;i++){
-        if(ans<nums[i]){
-            ans=nums[i];
-            index=i;
+    while(start<end){
+        let mid=Math.floor(start+(end-start)/2);
+
+        if(nums[mid]<nums[mid+1]){
+            start=mid+1;
+        }else{
+            end=mid;
         }
     }
     
-    return index;
+    return start;
 };
