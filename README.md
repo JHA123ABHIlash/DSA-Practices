@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/0875-koko-eating-bananas) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/0875-koko-eating-bananas) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,4 +49,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sorting
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
