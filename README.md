@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/0033-search-in-rotated-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0136-single-number](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/0189-rotate-array) |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/3731-find-missing-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
