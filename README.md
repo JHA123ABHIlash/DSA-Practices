@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/0875-koko-eating-bananas) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1929-concatenation-of-array](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/1929-concatenation-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/2574-left-and-right-sum-differences) |
 | [3731-find-missing-elements](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
