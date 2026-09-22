@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/0875-koko-eating-bananas) |
+| [1480-running-sum-of-1d-array](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1929-concatenation-of-array](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/1929-concatenation-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/2574-left-and-right-sum-differences) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2574-left-and-right-sum-differences](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
