@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/0242-valid-anagram) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3731-find-missing-elements](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/0560-subarray-sum-equals-k) |
 | [3731-find-missing-elements](https://github.com/JHA123ABHIlash/DSA-Practices/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
